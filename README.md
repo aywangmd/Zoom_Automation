@@ -1,2 +1,2 @@
 # Zoom_Automation
-Bot to leave and 
+Bot to leave zoom meetings and join breakout rooms
